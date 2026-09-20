@@ -1,0 +1,90 @@
+drwxr-x---@    - seegan 19 Sep 16:04  .
+drwxr-xr-x     - root   16 Aug 15:14  ..
+.rw-r--r--@ 2.0k seegan 22 Jan 00:12  ..gitconfig.un~
+drwxr-xr-x@    - seegan 17 Aug 01:42  .ansible
+drwxr-xr-x@    - seegan 15 Sep 23:19  .atom
+.rw-------@   90 seegan 20 Jan 21:52 󱆃 .bash_history
+drwxr-xr-x@    - seegan 30 Mar 23:26  .cache
+.r--------     7 seegan 19 Aug 03:52  .CFUserTextEncoding
+drwx------@    - seegan  4 Sep 00:15  .config
+drwx------@    - seegan 16 Aug 15:15  .copilot
+drwxr-xr-x@    - seegan 11 Sep 04:01  .docker
+.rw-r--r--@  35k seegan 19 Sep 15:55  .DS_Store
+drwxr-xr-x@    - seegan  3 Apr 01:23  .gem
+.rw-r--r--@  158 seegan 22 Jan 00:12 󰊢 .gitconfig
+.rw-r--r--@    0 seegan 20 Jan 11:02  .hushlogin
+.rw-r--r--@ 7.0k seegan 11 Dec  2025  .hyper.js
+drwxr-xr-x@    - seegan 11 Dec  2025  .hyper_plugins
+drwxr-xr-x@    - seegan  9 Dec  2025  .kube
+.rw-------    20 root   29 Mar 23:57  .lesshst
+drwx------@    - seegan  3 Jun 19:08  .local
+drwxr-xr-x@    - seegan 31 Mar 01:24  .npm
+drwxr-xr-x@    - seegan 20 Jan 08:22  .oh-my-zsh
+.rw-r--r--@  96k seegan 20 Jan 08:27  .p10k.zsh
+.rw-r--r--@  242 seegan 28 May 19:00  .packettracer
+drwxr-xr-x@    - seegan 20 Jan 11:03  .pyenv
+.rw-------@  364 seegan 18 Jul 20:11  .python_history
+drwxr-xr-x@    - seegan  9 Dec  2025  .redhat
+.rw-------@    6 seegan 31 Mar 01:27  .sh_history
+drwx------     - seegan 24 Aug 23:55 󰢬 .ssh
+drwx------     - seegan 18 Sep 12:55  .Trash
+drwxr-xr-x@    - seegan  2 May 10:25  .vim
+.rw-------@  14k seegan 19 Sep 16:04  .viminfo
+lrwxr-xr-x@    - seegan 20 Jan 11:02  .vimrc -> /Users/seegan/popi/dotfiles/vim/.vimrc
+lrwxr-xr-x@    - seegan 20 Jan 11:02  .vrapperrc -> /Users/seegan/popi/dotfiles/dbeaver/.vrapperrc
+drwxr-xr-x@    - seegan  8 Dec  2025  .vscode
+drwxr-xr-x@    - seegan  2 Jun 23:15  .vscode-shared
+drwxr-xr-x     - seegan  9 Mar 15:41  .ytDownloader
+drwx------@    - seegan  7 Sep 22:44  .zcompcache
+.rw-r--r--@  50k seegan 18 Sep 17:13  .zcompdump
+.rw-r--r--@  50k seegan 20 Jan 09:34  .zcompdump-MacBook-Air-Sergej-5.9
+.r--r--r--@ 118k seegan 20 Jan 09:34  .zcompdump-MacBook-Air-Sergej-5.9.zwc
+.rw-r--r--@  50k seegan 21 May 01:35  .zcompdump.MacBook-Air-Sergej.local.35313
+.rw-r--r--    43 seegan  9 Dec  2025 󱆃 .zprofile
+.rw-------@ 132k seegan 18 Sep 12:53 󱆃 .zsh_history
+drwx------     - seegan  8 Apr 21:06  .zsh_sessions
+lrwxr-xr-x@    - seegan 20 Jan 11:02 󱆃 .zshenv -> /Users/seegan/popi/dotfiles/zsh/.zshenv
+lrwxr-xr-x@    - seegan 20 Jan 11:02 󱆃 .zshrc -> /Users/seegan/popi/dotfiles/zsh/.zshrc
+.rw-r--r--@ 145M seegan 10 Aug 17:46  '2026-08-10 17-28-04.mp4'
+.rw-r--r--@    0 seegan 31 Mar 01:38  4582927.jpg
+.rw-r--r--@ 947k seegan  9 Aug 23:40  7730876e-b334-4aeb-9a20-a2cd4558837c.jpg
+drwx------@    - seegan  7 Feb 21:56  Applications
+.rw-r--r--@ 118k seegan 22 Aug 03:04  avatar_for_chanel.png
+.rw-------@ 118k seegan 29 Mar 17:53  avatarka.jpeg
+.rw-r--r--     5 seegan 11 Dec  2025  cat.txt
+drwxr-xr-x@    - seegan 29 Mar 15:34  'Cisco Packet Tracer 9.0.0'
+drwx------     - seegan  7 Jul 09:37  Desktop
+drwxr-xr-x     - seegan 28 Feb 05:08  docker
+drwx------     - seegan 10 Aug 18:16 󰲂 Documents
+drwx------     - seegan 18 Sep 14:54 󰉍 Downloads
+drwxr-xr-x@    - seegan 20 Jan 09:45  fonts
+drwxr-xr-x@    - seegan 29 Dec  2025  go
+drwxr-xr-x@    - seegan  9 Sep 08:23  k8s_project
+drwxr-xr-x@    - seegan 17 Aug 19:27  learn_english
+drwx------@    - seegan 20 Jan 10:34  Library
+drwxr-xr-x@    - seegan 18 Sep 17:14  linux_fundamentals
+drwxr-xr-x@    - seegan 19 Sep 15:53  lpic_linux
+.rw-r--r--@ 728k seegan  5 Jun 21:40  milena.jpeg
+.rw-------@ 505k seegan  5 Jun 21:40  milena.jpg
+drwx------     - seegan 12 Aug 13:32 󰿎 Movies
+drwx------     - seegan  9 Dec  2025 󱍙 Music
+drwxr-xr-x@    - seegan 12 Aug 13:47  OBS
+drwxr-xr-x@    - seegan 24 May 05:20  Obsidian
+.rw-r--r--@ 120k seegan  8 Aug 22:11  'photo_2026-08-08 22.10.43.jpeg'
+drwx------     - seegan  7 Feb 21:39 󰉏 Pictures
+drwxr-xr-x     - seegan 20 Dec  2025  popa
+drwxr-xr-x@    - seegan 20 Jan 10:05  popi
+drwxr-xr-x@    - seegan  8 Sep 00:43  Postman
+drwxr-xr-x@    - seegan 18 Sep 12:44  practice
+drwxr-xr-x     - seegan  8 Dec  2025  Public
+drwxr-xr-x@    - seegan 18 Jul 19:52  python_project
+drwxr-xr-x@    - seegan  8 Mar 14:37  pythoner
+drwxr-xr-x@    - seegan 11 Sep 03:47  resume
+drwxr-xr-x@    - seegan 11 Sep 02:53  resume-generator
+.rw-r--r--@  53k seegan  8 Aug 05:28  Sergey_Ganin_DevOps_CV.pdf
+drwxr-xr-x@    - seegan 13 Aug 15:47  test
+lrwxr-xr-x     - seegan  3 Apr 00:50 󰡯 yandex-key -> /Users/seegan/.ssh/id_ed25519
+.rw-------@ 118k seegan 29 Mar 17:53 󰡯 Ава
+.rw-r--r--@ 2.7M seegan  8 Aug 22:06  Загран.JPEG.jpg
+.rw-------@ 266k seegan 15 Sep 12:39  'пример доверенности 1 стр.jpg'
+.rw-------@ 228k seegan 15 Sep 12:39  'пример доверенности 2 стр.jpg'
