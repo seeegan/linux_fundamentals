@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "3b13d6cf279ef32e",
+    "type": "split",
+    "children": [
+      {
+        "id": "083d6a3176a5a8ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d98988a106d88048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux Practice/Let's begin!/Task 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Task 3"
+            }
+          },
+          {
+            "id": "c026ebccdd9fbf1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux"
+            }
+          },
+          {
+            "id": "076e87e005f534a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы на которые я не знаю ответ/Как из log-файла nginx определить по какому ip-адресу было наибольшее количество запросов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как из log-файла nginx определить по какому ip-адресу было наибольшее количество запросов"
+            }
+          },
+          {
+            "id": "9b6d2edc7001faa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы на которые я не знаю ответ/Вопросы на которые я не знаю ответ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вопросы на которые я не знаю ответ"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2283141ffc1cfa99",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aeba78ded73170c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6ae5e423622c31f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1d1e430db2a04ef0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f13ee6765a6d9908",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.50390243530273
+  },
+  "right": {
+    "id": "cf7f978f713fc4a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2c5b202901571db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5e751ac78d2cb81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linux/Пользователи в Linux.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Пользователи в Linux"
+            }
+          },
+          {
+            "id": "41c7ab6a8eca88aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Процессы в Linux.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Процессы в Linux"
+            }
+          },
+          {
+            "id": "2ccc8648b7593cdb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c9fb2ff0863b7b43",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "ce45136ab33477c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Процессы в Linux.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Процессы в Linux"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9b6d2edc7001faa4",
+  "lastOpenFiles": [
+    "Вопросы на которые я не знаю ответ/Вопросы на которые я не знаю ответ.md",
+    "Pasted image 20260914142425.png",
+    "Docker/runc.md",
+    "Docker/namespace и cgroup.md",
+    "Docker/Docker base.md",
+    "Docker/chroot.md",
+    "Вопросы на которые я не знаю ответ/Как из log-файла nginx определить по какому ip-адресу было наибольшее количество запросов.md",
+    "Linux/Linux.md",
+    "Untitled.md",
+    "Pasted image 20260909071303.png",
+    "Pasted image 20260909070444.png",
+    "Docker",
+    "Linux/Каким образом можно вытащить из log-файла ip-адрес и отфильтровать его по количество вхождений.md",
+    "Linux/Load Average.md",
+    "Linux/Команды в Linux.md",
+    "Python/Стрим Python.md",
+    "Linux Practice/От 0 до 100.md",
+    "Linux Practice/Let's begin!/Task 4.md",
+    "Linux Practice/Let's begin!/Task 3.md",
+    "Linux Practice/Let's begin!/Task 2.md",
+    "Linux Practice/Let's begin!/Task 1.md",
+    "Linux/Процессы в Linux.md",
+    "Linux/Процесс загрузки Linux.md",
+    "Linux/Coreutils и конвейеры. Обработка текста.md",
+    "Linux/Файловая система в Linux.md",
+    "Linux/Основы bash-скриптов.md",
+    "Pasted image 20260626233924.png",
+    "Pasted image 20260626232857.png",
+    "Pasted image 20260626232726.png",
+    "Pasted image 20260626232723.png",
+    "Linux/Пользователи в Linux.md",
+    "Pasted image 20260626013412.png",
+    "Pasted image 20260626013053.png",
+    "Linux Practice/Let's begin!",
+    "Lesson0 -",
+    "Linux Practice",
+    "Python/Основы языка/L0_Hello World.md",
+    "Linux/Права доступа в Linux.md",
+    "Python/Основы языка",
+    "Python",
+    "images/Pasted image 20260519003846.png",
+    "Linux/Сортировка строк в Linux.md",
+    "images",
+    "Ansible/Практика/Урок 1. Описываем инфраструктуру",
+    "Ansible/Практика/Без названия",
+    "Ansible/Практика",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
+  ]
+}
